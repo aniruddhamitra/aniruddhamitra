@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I’m Aniruddha Mitra 👋
 
-<!--
-**aniruddhamitra/aniruddhamitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I’m a Software Engineer with a passion for building scalable systems and meaningful products.  
+I specialize in:
+- **AWS**
+- **Java**
+- **Python**
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Deliver quality PRs every week
+- Design, develop, and deploy cloud-native solutions
+- Contribute to open source and collaborate on innovative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+Feel free to check out my repositories and reach out for collaborations or discussions!
+
+---
+
+*Always learning, always building.*
